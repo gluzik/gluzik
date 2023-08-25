@@ -18,3 +18,5 @@ Skills: HTML / CSS / SCSS / Figma / JS / GIT / GitHub.<br>And I tried to use it:
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=gluzik)  
 
+<img src="https://www.codewars.com/users/gluzik/badges/large" alt="codewars">
+
