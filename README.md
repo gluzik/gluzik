@@ -2,7 +2,7 @@
 #### I am FrontEnd Developer
 ![I am FrontEnd Developer](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Currently, I am in the process of learning the Frontend profession
 
 Skills: HTML / CSS / SCSS / Figma / JS / GIT / GitHub.<br>And I tried to use it: C++ / C / Python / MySQL
 
