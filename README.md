@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Vlad
-#### I am FrontEnd Developer
+#### I am Beginning FrontEnd Developer
 ![I am FrontEnd Developer](https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif)
 
 Currently, I am in the process of learning the Frontend profession
